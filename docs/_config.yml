@@ -21,8 +21,7 @@
 title: Austin W. Kraft
 email: austin.kraft@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The personal website for Austin W. Kraft, linguistics researcher. All views
-  expressed here are Austin's own.
+  Linguistics researcher.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: austinwkraft
