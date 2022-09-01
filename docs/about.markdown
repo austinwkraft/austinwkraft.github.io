@@ -13,3 +13,4 @@ More specifically, on (2): I recognize a responsibility to grapple with question
 I earned dual degrees in linguistics and mathematics (specialization in computer applications), *summa cum laude*, from the University of Minnesota in 2020. I plan to pursue an advanced degree in 2023, following completion of my Fulbright grant period.
 
 ![Austin is standing and smiling in front of a wall of ivy.](https://github.com/austinwkraft/austinwkraft.github.io/blob/gh-pages/docs/AustinKraft-2.JPG "Austin W. Kraft headshot")
+Photo credit: Delaney Sharratt.
