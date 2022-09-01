@@ -14,3 +14,5 @@ I earned dual degrees in linguistics and mathematics (specialization in computer
 
 ![Austin is standing and smiling in front of a wall of ivy.](https://github.com/austinwkraft/austinwkraft.github.io/blob/gh-pages/docs/AustinKraft-2-Compressed.jpg "Austin W. Kraft headshot")
 Photo credit: Delaney Sharratt.
+
+All views expressed on this website are my own.
