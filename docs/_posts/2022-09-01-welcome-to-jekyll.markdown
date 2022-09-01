@@ -1,29 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome! Selamat Datang! Sugeng rawu!"
 date:   2022-09-01 17:28:04 +0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello, and welcome to my personal website! My name is Austin, and I'm presently in Indonesia as a linguistics researcher. I study how languages encode structure and meaning, with a view toward community-focused design and stewardship of language technologies. (``What does all of that mean?'' I'll elaborate soon.) I hope to use this site to share updates on my projects and experiences. For more information about me and my work, visit the [About page](https://austinwkraft.github.io/about/).
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This is a brief introduction, but I invite you to check back for more updates in the near future.
