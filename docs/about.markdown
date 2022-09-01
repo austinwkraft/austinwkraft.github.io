@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a linguistics researcher, currently affiliated with the American Indonesian Exchange Foundation and Unika Atma Jaya through a Fulbright U.S. Student Research Award. Broadly, I am interested in two related areas: (1) how sentence structure and meaning vary across different languages; and (2) how we can develop language technologies that dually enrich linguistic theory and align with communities' objectives.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+More specifically, on (1): I am presently studying the syntax-semantic-pragmatics interface of anaphora. My studies on Austronesian anaphora have brought me to my current position in Indonesia as a researcher in Central Java and West Kalimantan. I previously researched the syntax of grammatical voice in East Javanese Indonesian. I have also conducted psycholinguistics research on various topics in syntax and semantics, particularly in projects on the real-time processing of covert *wh*-movement and filler-gap dependencies.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+More specifically, on (2): I recognize a responsibility to grapple with questions about the privacy, autonomy, and social implications of language technologies. I have extensively written about and researched data privacy, from mathematical formalisms like differential privacy to emerging global legislation. I am interested in how linguistics methods like fieldwork and corpus research can collect and process linguistic data in privacy-preserving ways.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I earned dual degrees in linguistics and mathematics (specialization in computer applications), *summa cum laude*, from the University of Minnesota in 2020. I plan to pursue an advanced degree in 2023, following completion of my Fulbright grant period.
