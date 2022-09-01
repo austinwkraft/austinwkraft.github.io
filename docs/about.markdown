@@ -12,7 +12,7 @@ More specifically, on (2): I recognize a responsibility to grapple with question
 
 I earned dual degrees in linguistics and mathematics (specialization in computer applications), *summa cum laude*, from the University of Minnesota in 2020. I plan to pursue an advanced degree in 2023, following completion of my Fulbright grant period.
 
-![Austin is standing and smiling in front of a wall of ivy.](https://github.com/austinwkraft/austinwkraft.github.io/blob/gh-pages/docs/AustinKraft-2-Compressed.jpg)
+![Austin is standing and smiling in front of a wall of ivy.](https://ucc3ae68423e33bd5c4983f5be0d.previews.dropboxusercontent.com/p/thumb/ABo08hzxSr-NIjOnauxCYUvUBs0AyHESAje8IDwh12OdS6imZBakJDnwekYSjya0dt9qIQtKzC9TyYb5nvgAVIrcgolaNoziVxIkSv93HONWgqa_N_Y8SKpwXcAjl8r5zzJeSBS_N47iNPKKkvDE1M0ntoutCZ4nJVlEGwuZoWXklo_keli8eCxX-_LmbcJHQDse1ASwRU_wjEFZFv3IsKMWDlVL3g10e9pU_CaYhj1n2KHOj4rVZgLCIy49Rci7FA7hQN7Leb8enUFQB5QvdUTCvRu8T3lcLpv5WIXit9KHI5LOwwaJ0dvrQtLSIWzcCgaDYbthtLsp4GUzyoS-2mzwcGaCZQFnS4I9ZSb6zH73O7opFC1-5Y0B-1jPGzHViiBXla6ZFwVnUcUVbiA_k93VhIoJX9pFdDrWQGfPZBWZ7Kz0vBtGUwsgal-MKdPJz50/p.jpeg)
 
 Photo credit: Delaney Sharratt.
 
