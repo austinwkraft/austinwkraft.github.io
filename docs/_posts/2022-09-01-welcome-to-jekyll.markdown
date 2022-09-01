@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome! Selamat datang! Sugeng rawu!"
+title:  "Welcome! Selamat datang!"
 date:   2022-09-01 17:28:04 +0700
 categories: jekyll update
 ---
