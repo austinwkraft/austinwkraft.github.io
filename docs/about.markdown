@@ -4,16 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I am a linguistics researcher, currently affiliated with the American Indonesian Exchange Foundation and Unika Atma Jaya through a Fulbright U.S. Student Research Award. Broadly, I am interested in two related areas: (1) how sentence structure and meaning vary across different languages; and (2) how we can develop language technologies that dually enrich linguistic theory and align with communities' objectives.
+I am a first-year MA student in linguistics at McGill University. Before moving to Montreal, I spent 2022-2023 in Indonesia on a Fulbright U.S. Student Research Award, advised by [Dr. Yanti](https://www.atmajaya.ac.id/en/pages/dosen-mltbi-5/). Broadly, I am interested in two related areas: (1) how sentence structure and meaning vary across different languages; and (2) how language documentation can advance speaker communities' interests alongside linguistic theory.
 
-More specifically, on (1): my primary research is on the syntax, semantics, and pragmatics of anaphora. My studies on Austronesian anaphora have brought me to my current position in Indonesia as a researcher in Central Java and West Kalimantan. I am also interested in argument structure, voice, and event structure. I previously researched the syntax of grammatical voice in East Javanese Indonesian. I have also conducted psycholinguistics research on various topics in syntax and semantics, particularly in projects on the real-time processing of covert *wh*-movement and filler-gap dependencies.
+More specifically, on (1): I study argument structure, voice, and anaphora in languages of Indonesia. My Fulbright research documented patterns in anaphora in the Javanese spoken in Semarang and Pemalang, Central Java; and in a Land Dayak language called Simpakng spoken in Ketapang, West Kalimantan. I previously researched the syntax of voice in East Javanese Indonesian, advised by [Professor Hooi Ling Soh](https://cla.umn.edu/about/directory/profile/sohxx001). I also conducted psycholinguistics research on long-distance syntactic processing, advised by [Professor Dustin Alfonso Chacón](https://www.lingdustin.net/).
 
-More specifically, on (2): I recognize a responsibility to grapple with questions about the privacy, autonomy, and social implications of language technologies. I have extensively written about and researched data privacy, from mathematical formalisms like differential privacy to emerging global legislation. I am interested in how linguistics fieldwork, corpus research, and industry applications can collect and process linguistic data in privacy-preserving ways. With more conscientious design of language technologies, linguistic theory and linguistic communities alike stand to benefit.
+More specifically, on (2): I recognize a responsibility to grapple with questions about privacy, autonomy, and usability in language technologies. I am interested in how language documentation can yield usable corpora for speaker communities, particularly corpora in languages that are not extensively documented.
 
-I earned dual degrees in linguistics and mathematics (specialization in computer applications), *summa cum laude*, from the University of Minnesota in 2020. I plan to pursue an advanced degree in 2023, following completion of my Fulbright grant period.
-
-![Austin is standing and smiling in front of a wall of ivy.](https://github.com/austinwkraft/austinwkraft.github.io/blob/gh-pages/docs/AustinKraft-2.JPG?raw=true)
-
-Photo credit: Delaney Sharratt.
-
+I earned dual bachelor's degrees in linguistics and mathematics (specialization in computer applications), *summa cum laude*, from the University of Minnesota in 2020.
+<div style="text-align: center;">
+<img src="https://github.com/austinwkraft/austinwkraft.github.io/blob/gh-pages/docs/AustinKraft.JPG?raw=true" width="289.5" height="386" alt="Austin bio picture">
+</div>
 All views expressed on this website are my own.
