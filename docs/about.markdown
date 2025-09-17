@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a second-year PhD student in linguistics and a Vanier Scholar at McGill University.
+I am a third-year PhD student in linguistics and a Vanier Scholar at McGill University.
 
 <h2>Public introduction</h2>
 I am a linguist who studies meaning in language. Broadly, I am interested in questions like:
