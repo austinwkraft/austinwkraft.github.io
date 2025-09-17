@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   
 header_pages:
-  - papers.markdown
+  - paperspage.markdown
   - cvpage.markdown
   - about.markdown
 
