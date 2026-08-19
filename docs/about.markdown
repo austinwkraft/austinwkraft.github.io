@@ -26,7 +26,7 @@ I study semantics and syntax. I am interested in the internal composition of nom
 - Numeral-containing DPs and individuation-measurement distinctions
 - Complex anaphoric expressions
 
-I research these and other topics in Austronesian languages, namely Javanese and Simpakng (Land Dayak); and more recently in Kanien'kéha, a northern Iroquoian language. In studying languages that are not yet extensively documented, I am interested in how linguistics research can support the development of usable and useful corpora for speakers and learners.
+I research these and other topics in Austronesian languages, namely Javanese and Simpakng (Land Dayak); and more recently in Kanien'kéha, a Northern Iroquoian language. In studying languages that are not yet extensively documented, I am interested in how linguistics research can support the development of usable and useful corpora for speakers and learners.
 
 Before moving to Montreal, I spent 2022-2023 in Indonesia on a Fulbright U.S. Student Research Award, advised by [Dr. Yanti](https://www.atmajaya.ac.id/en/pages/dosen-mltbi-5/). I earned dual bachelor's degrees in linguistics and mathematics (specialization in computer applications), *summa cum laude*, from the University of Minnesota in 2020.
 
